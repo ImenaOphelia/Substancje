@@ -5455,6 +5455,34 @@
       ]
     },
     {
+      "nazwa": "metafedron",
+      "inna nazwa": [
+        "3-MMC",
+        "3-metylometkatynon",
+        "3-metylo-N-metylokatynon",
+        "(RS)-2-(metyloamino)-1-(3-metylofenylo)propan-1-on",
+      ],
+      "odmiany": [
+        "metafedronu",
+        "metafedronie",
+        "metafedronem",
+        "metafedronowi",
+      ],
+      "wzor chemiczny": [
+        "CC1=CC=CC(C(C(C)NC)=O)=C1"
+      ],
+      "kategoria": [
+        "stymulanty",
+        "fenyloetyloaminy",
+        "beta-ketony",
+        "katynony"
+      ],
+      "talk": "mmc-metafedron-t35508.html",
+      "hyperkategoria": [
+        "chemia"
+      ]
+    },
+    {
       "nazwa": "metylokatynon",
       "inna nazwa": [
         "metkatynon",
